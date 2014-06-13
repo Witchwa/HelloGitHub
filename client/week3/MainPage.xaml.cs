@@ -23,7 +23,7 @@ namespace week3
     /// </summary>
     public sealed partial class MainPage : Page
     {
-        
+        //Hi i will add this to test =.=
         public MainPage()
         {
             this.InitializeComponent();
